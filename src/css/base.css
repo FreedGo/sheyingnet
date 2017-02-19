@@ -1,0 +1,44 @@
+/*自定义属性*/
+.f-l-l{  float: left;}
+.f-l-r{  float: right;}
+a{color:#333;}
+a:focus, a:hover {
+    color: #333;
+    text-decoration: none;
+}
+body{
+    font-family: 'Microsoft YaHei';
+}
+ul,li{
+    list-style: none;
+    padding: 0;
+}
+/*/自定义属性*/
+
+
+
+
+
+/*头部开始*/
+
+
+/*/头部结束*/
+
+
+/*尾部开始*/
+.footer-content{
+    width: 1400px;
+    margin:0 auto;
+}
+.foot-column .col-md-2{
+    width:20%;
+
+}
+.caption>p{
+    color: #5e5e5e;
+}
+.foot-column{
+    padding: 20px 0;
+    border-bottom: #ddd solid 1px;
+}
+/*尾部结束*/
